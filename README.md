@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about building clean, functional, and creat
 - 🇪🇸
 
 #### 🛠️ Tech Stack
-- Frontend: `HTML`, `CSS`, `TailwindCSS`, `JavaScript`, `TypeScript`
+- Frontend: `HTML`, `CSS`, `TailwindCSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`
 - Backend & Scripting: `Lua`, `SQL`
 
 ### 📫 Let's Connect
