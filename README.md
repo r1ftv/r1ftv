@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about building clean, functional, and creative digital experiences.
 
-#### Languages
+#### 🗣️ Languages
 - 🇬🇧
 - 🇪🇸
 
