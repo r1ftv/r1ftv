@@ -19,7 +19,7 @@ I'm a self-taught developer that enjoys exploring new technologies and turning i
 ### 📫 Let's Connect
 
 Feel free to reach out!
-- [Discord](https://discord.com/users/1335244024843472896)
-- [Email](mailto:personal.r1fv@gmail.com)
+- Discord: r1.fv
+- Email: personal.r1fv@gmail.com
 
 Thanks! 🚀
