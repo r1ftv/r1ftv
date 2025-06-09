@@ -1,16 +1,31 @@
-## 👋 Hey there
+## 👩‍💻 Self-Taught Developer
 
-### I'm a Self-Taught Developer 👩‍💻
+I'm a self-taught developer that enjoys exploring new technologies and turning ideas into reality through code.
 
-Welcome to my GitHub! I'm passionate about building clean, functional, and creative digital experiences.
+---
 
-#### 🗣️ Languages
-- 🇬🇧
-- 🇪🇸
+### 🌐 Languages
+- English 🇬🇧  
+- Spanish 🇪🇸
 
-#### 🛠️ Tech Stack
-- Frontend: `HTML`, `CSS`, `TailwindCSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`
-- Backend & Scripting: `Lua`, `SQL`
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**  
+- HTML, CSS, TailwindCSS  
+- JavaScript, TypeScript  
+- React, Next.js, Astro
+
+**Backend & Scripting**  
+- Lua, SQL
+
+---
 
 ### 📫 Let's Connect
-- Reach out on [Discord](https://discord.com/users/1335244024843472896) — **r1.ftv**
+
+Feel free to reach out!
+- [Discord](https://discord.com/users/1335244024843472896)
+- [Email](personal.r1fv@gmail.com)
+
+Thanks! 🚀
