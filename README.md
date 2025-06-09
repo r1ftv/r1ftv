@@ -2,13 +2,9 @@
 
 I'm a self-taught developer that enjoys exploring new technologies and turning ideas into reality through code.
 
----
-
 ### 🌐 Languages
 - English 🇬🇧  
 - Spanish 🇪🇸
-
----
 
 ### 🛠️ Tech Stack
 
@@ -19,8 +15,6 @@ I'm a self-taught developer that enjoys exploring new technologies and turning i
 
 **Backend & Scripting**  
 - Lua, SQL
-
----
 
 ### 📫 Let's Connect
 
